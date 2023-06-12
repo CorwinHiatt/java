@@ -9,9 +9,10 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		
-		// 1. Create a new instance of the class
-		// 2. Call the method
-		// 3. Print the result
+         int a = 10;	
+		int b = 20;
+		String builder  = new StringBuilder();
+				System.out.println(a + B +builder )		// 3. Print the result
 		// 4. Run the application
 		// 5. Check the result
 		// 6. Commit the changes
